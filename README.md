@@ -1,1 +1,1 @@
-# UCI Kappa Sigma Website
+The website for UCI's Kappa Sigma chapter, designed using an HTML5Up template called templated-hielo.
